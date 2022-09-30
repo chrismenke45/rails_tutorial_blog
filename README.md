@@ -1,1 +1,1 @@
-This is the first tutorial I followed with rails.  It will be the first working rails appI deploy to heroku.
+This is the first tutorial I followed with rails.  It will be the first working rails app I deploy to heroku. It can be seen at https://fierce-cove-02558.herokuapp.com/
